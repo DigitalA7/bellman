@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) couvre R1CS, paramètres Groth16, témoins, vérification et intégration rollup.
+
 # bellman [![Crates.io](https://img.shields.io/crates/v/bellman.svg)](https://crates.io/crates/bellman) #
 
 `bellman` is a crate for building zk-SNARK circuits. It provides circuit traits
